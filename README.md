@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning 
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+<a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white"/></a>
+<a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/></a>
 
 - Contact :
 <div align=left>
