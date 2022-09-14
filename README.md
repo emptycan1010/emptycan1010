@@ -2,8 +2,8 @@
 
 <div align=left>
 
-[![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:siro157@duck.com)](mailto:siro157@duck.com)
-![Discord](https://img.shields.io/badge/7660%237660-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white) <br><br>
+[![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=for-the-badge&color=168DE2&logoColor=white&link=mailto:siro157@duck.com)](mailto:siro157@duck.com)
+![Discord](https://img.shields.io/badge/7660%237660-Discord?logo=discord&style=for-the-badge&color=7289DA&logoColor=white) <br><br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=emptycan1010&theme=dark&show_icons=true&hide=prs,issues&count_private=true&hide_rank=true)
 </div>
 
