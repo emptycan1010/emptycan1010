@@ -1,6 +1,6 @@
 ### 반가워요
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning ...
 
 <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white"/></a>
