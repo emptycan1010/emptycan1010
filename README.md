@@ -1,4 +1,6 @@
 ### 반가워요
+High School Student
+
 
 - 🌱 I’m currently learning ...
 
